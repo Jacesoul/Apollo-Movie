@@ -1,0 +1,6 @@
+### Apollo 
+
+- yarn add styled-components react-router-dom
+- Apollo는 GraphQL API를 사용하기 좋은 방법이다.
+- REST API는 URL로 가서 JSON을 받아오지만 GraphQL은 query를 보내거나 mutation을 보내야한다.
+- npm install @apollo/client graphql
