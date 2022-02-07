@@ -7,3 +7,7 @@
 - apollo-boost는 GraphQL Yoga처럼 이미 모든걸 설정해둔 package이다.
 - ... && ... && ... 의 의미는 앞의 두개가 true라면 마지막을 실행하라는 뜻이다.
 - React Apollo에서 멋진점은 cache기능이 있다는것이다.
+
+### Local State 
+
+- local state란 API에서 넘어온 데이터를 바꿀수 있는것이다.
